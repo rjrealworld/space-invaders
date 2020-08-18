@@ -1,8 +1,3 @@
-#Space Invaders - Part 9
-#Image for Invader
-#Image for Player
-#Image for background
-#Python 2.7 on Mac
 import turtle
 import pygame
 import math

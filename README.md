@@ -18,3 +18,7 @@
   - Game Over
   
   ![](https://github.com/rjrealworld/space-invaders/blob/master/screenshot/Capture3.PNG?raw=true)
+  
+  
+  PLEASE TRY PROBLEM YOURSELF THEN COPY THIS CODE.
+  HAPPYU CODING!
